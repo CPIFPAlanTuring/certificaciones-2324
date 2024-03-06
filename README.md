@@ -4,4 +4,5 @@
 
 * [Vanesa Abromaviciute - Provisional](www.loquesea.com)
 * [Cristina Fernández - Provisional](www.loquesea.com)
+* [Ángel Daniel Ruiz - GameZone](www.loquesea.com)
 
