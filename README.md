@@ -7,3 +7,4 @@
 * [Ángel Daniel Ruiz - GameZone](www.loquesea.com)
 
 * [Adrián Toledo Díaz - Provisional](www.loquesea.com)
+* [Iván Calatayud Merino - Fallout (serie) ](www.loquesea.com)
