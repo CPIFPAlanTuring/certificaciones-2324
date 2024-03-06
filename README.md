@@ -2,5 +2,5 @@
 
 # Trabajos de Certificaciones de Profesionalidad "Desarrollo de Aplicaciones con Tecnología Web" - Curso 2023 / 2024
 
-* [Aitor Menta - Super Pokemon](www.loquesea.com)
+* [Vanesa Abromaviciute - Provisional](www.loquesea.com)
 
