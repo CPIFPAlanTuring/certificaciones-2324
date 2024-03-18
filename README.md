@@ -4,7 +4,7 @@
 
 * [Vanesa Abromaviciute - PopPop Film](https://github.com/VanesaAbromaviciute/crud-popfilm)
 * [Cristina Fernández - MesonFernandez](https://github.com/CristinaFdezFdez/MesonFernandez)
-* [Ángel Daniel Ruiz - GameZone](www.loquesea.com)
+* [Ángel Daniel Ruiz - GameZone](https://github.com/AngelDanielRuizMontes/gamezone)
 
 * [Adrián Toledo Díaz - SpanishLeague Management](www.loquesea.com)
 * [Iván Calatayud Merino - Nomekop](www.loquesea.com)
