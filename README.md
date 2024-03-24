@@ -8,5 +8,5 @@
 
 * [Adrián Toledo Díaz - SpanishLeague Management](www.loquesea.com)
 * [Iván Calatayud Merino - Nomekop](www.loquesea.com)
-* [Morgan González Orellana - HarryPotter ](www.loquesea.com)
+* [Morgan González Orellana - HarryPotter ](https://github.com/esthergonzalezorellana/proyectofinalcertificacion)
 * [Julio Alberto Amaya  Merchan - Foto&Snap ](www.loquesea.com)
