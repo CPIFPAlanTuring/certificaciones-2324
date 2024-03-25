@@ -7,6 +7,6 @@
 * [Ángel Daniel Ruiz - GameZone](https://github.com/AngelDanielRuizMontes/gamezone)
 
 * [Adrián Toledo Díaz - SpanishLeague Management](www.loquesea.com)
-* [Iván Calatayud Merino - Nomekop](www.loquesea.com)
+* [Iván Calatayud Merino - Nomekop](https://github.com/Icame05/Nomekop.git)
 * [Morgan González Orellana - HarryPotter ](https://github.com/esthergonzalezorellana/proyectofinalcertificacion)
 * [Julio Alberto Amaya  Merchan - Foto&Snap ](www.loquesea.com)
