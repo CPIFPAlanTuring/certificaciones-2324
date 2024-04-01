@@ -9,5 +9,5 @@
 * [Adrián Toledo Díaz - SpanishLeague Management](https://github.com/AdrianToledoDiaz/CRUD-SpanishLeague))
 * [Iván Calatayud Merino - Nomekop](https://github.com/Icame05/Nomekop.git)
 * [Morgan González Orellana - HarryPotter ](https://github.com/esthergonzalezorellana/proyectofinalcertificacion)
-* [Julio Alberto Amaya  Merchan - Foto&Snap ](www.loquesea.com)
+* [Julio Alberto Amaya  Merchan - Foto&Snap ](https://github.com/julioamayamlg/crud-Photo-Snap/)
 * [Andrea Nieto Rodríguez - AnimeDB](https://github.com/Andy2927/AnimeDB)
